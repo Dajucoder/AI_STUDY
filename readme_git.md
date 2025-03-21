@@ -157,7 +157,7 @@ git remote add origin git@github.com:用户名/仓库名.git
 # git remote add origin https://github.com/用户名/仓库名.git
 
 # 推送到GitHub
-git push -u origin master  # 或 main，取决于你的默认分支名
+git push -u origin main  # 或 master，取决于你的默认分支名
 ```
 
 ### 方法二：克隆已有仓库
